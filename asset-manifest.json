@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/generator-mysli/static/js/app.3c89801f.chunk.js",
+    "app.js.map": "/generator-mysli/static/js/app.3c89801f.chunk.js.map",
+    "runtime~app.js": "/generator-mysli/static/js/runtime~app.6b937e6b.js",
+    "runtime~app.js.map": "/generator-mysli/static/js/runtime~app.6b937e6b.js.map",
+    "static/js/2.ec274949.chunk.js": "/generator-mysli/static/js/2.ec274949.chunk.js",
+    "static/js/2.ec274949.chunk.js.map": "/generator-mysli/static/js/2.ec274949.chunk.js.map",
+    "fonts/AntDesign.ttf": "/generator-mysli/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/generator-mysli/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/generator-mysli/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/generator-mysli/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/generator-mysli/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/generator-mysli/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/generator-mysli/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/generator-mysli/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/generator-mysli/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/generator-mysli/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/generator-mysli/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/generator-mysli/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/generator-mysli/favicon-16.png",
+    "favicon-32.png": "/generator-mysli/favicon-32.png",
+    "favicon.ico": "/generator-mysli/favicon.ico",
+    "index.html": "/generator-mysli/index.html",
+    "manifest.json": "/generator-mysli/manifest.json",
+    "serve.json": "/generator-mysli/serve.json",
+    "static/js/2.ec274949.chunk.js.LICENSE.txt": "/generator-mysli/static/js/2.ec274949.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.6b937e6b.js",
+    "static/js/2.ec274949.chunk.js",
+    "static/js/app.3c89801f.chunk.js"
+  ]
+}
