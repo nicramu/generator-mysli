@@ -1,6 +1,8 @@
 <p align="center">
-<img src="https://github.com/nicramu/generator-mysli/blob/master/assets/adaptive-icon.png" width="100" height="100">
+<img src="https://github.com/nicramu/generator-mysli/blob/master/data/mockup full.png">
 </p>
+
+# [wersja web do testowania](https://nicramu.github.io/generator-mysli/)
 
 # Generator myśli – o projekcie
 Czyli projekt-eksperyment-żart który miał na celu generowanie losowych zdań przypominających cytaty/złote myśli. W myśl zasady – im bardziej abstrakcyjnie, tym śmieszniej. Pierwsza wersja opierała się na predefiniowanych ręcznie fragmentach tekstu (wersja dostępna po ustawieniu przełącznika na „semi random”). Ta wersja złożona była z jednego obiektu, skonstruowanego w następujący sposób:
